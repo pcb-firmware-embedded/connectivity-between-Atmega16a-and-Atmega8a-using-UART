@@ -44,7 +44,7 @@ GND ------------------ GND
 
 See the project demonstration video included with this project:
 
-**UART_Communication_Demo.mp4**
+PICTURE/**VIDEO.mp4**
 
 ---
 
