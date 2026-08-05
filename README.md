@@ -15,7 +15,6 @@ This project demonstrates **bidirectional UART communication** between an **ATme
 ## Proteus Simulation
 
 ![Proteus Simulation](PICTURE/Screenshot_10.png)
-![Proteus Simulation](PICTURE/VIDEO.mp4)
 
 ---
 
